@@ -1,2 +1,2 @@
-# Leave-Management-System
-Leave Management System is a simple and very easy to use management system. Here in this system, you can manage your employee records with ease. The project comes along with a database as backend. Since the database is already made executable you just have to make sure that your database path is correctly set in the code.
+# Library-Management-System
+Library management system is designed to manage all the functions of a library. It helps librarian to maintain the database of new books and the books that are borrowed by members along with their due dates. This system completely automates all your library's activities.
